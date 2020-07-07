@@ -1,0 +1,14 @@
+body{
+    font-family: Calibri;
+}
+
+.page{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.button{
+    padding: 8px 15px;
+    background-color: antiquewhite;
+    border-radius: 3px;
+}
